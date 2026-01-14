@@ -1,0 +1,4 @@
+{
+  "frontend/src/App.tsx": "Main application component displaying \"Bubble Tea\" text centered on the page with a subtle gradient background and footer attribution.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring a soft purple/lavender color palette for both light and dark modes, creating an elegant and minimal aesthetic."
+}

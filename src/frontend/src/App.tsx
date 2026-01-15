@@ -2,7 +2,7 @@ export default function App() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-background via-background to-accent/5">
       <main className="text-center px-4">
-        <h1 className="text-8xl md:text-9xl font-light tracking-tight text-foreground">
+        <h1 className="text-[7.2rem] md:text-[9.6rem] font-light tracking-tight text-foreground leading-none">
           Bubble Tea
         </h1>
       </main>
